@@ -79,6 +79,25 @@
 
                                     <div class="row">
                                         <div class="col-lg-6 mb20">
+                                            <h5>Name</h5>
+                                            <input type="text" name="PickupLocation"  placeholder="Enter Your Name" class="form-control">
+
+                                            <div class="jls-address-preview jls-address-preview--hidden">
+                                                <div class="jls-address-preview__header">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6 mb20">
+                                            <h5>Contact</h5>
+                                            <input type="text" name="DropoffLocation" placeholder="Enter Your Contact" class="form-control">
+
+                                            <div class="jls-address-preview jls-address-preview--hidden">
+                                                <div class="jls-address-preview__header">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 mb20">
                                             <h5>Pick Up Location</h5>
                                             <input type="text" name="PickupLocation"  placeholder="Enter your pickup location" class="form-control">
 

@@ -59,13 +59,10 @@
                             <div class="de-flex">
                                 <div class="de-flex-col">
                                     <a href="index.php">
-                                        TLL Fleet LLC 2024 - Designed & Developed By Endeavour Digital
+                                        TLL Fleet 2024 - Developed By <a href="https://endeavourdigital.in">&nbsp;Endeavour Digital.</a>
                                     </a>
                                 </div>
-                                <ul class="menu-simple">
-                                    <li><a href="#">Terms &amp; Conditions</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
-                                </ul>
+                               
                             </div>
                         </div>
                     </div>

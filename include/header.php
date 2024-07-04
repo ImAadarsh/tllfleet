@@ -33,8 +33,8 @@
                                     <!-- logo begin -->
                                     <div id="logo">
                                         <a href="index.php">
-                                            <img class="logo-1" src="images/tllfleet.png" alt="">
-                                            <img class="logo-2" src="images/tllfleet.png" alt="">
+                                            <img class="logo-1" src="images/tlogo.svg" alt="">
+                                            <img class="logo-2" src="images/tlogo.svg" alt="">
                                         </a>
                                     </div>
                                     <!-- logo close -->
