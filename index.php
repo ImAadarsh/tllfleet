@@ -20,6 +20,25 @@
     <link href="css/coloring.css" rel="stylesheet" type="text/css">
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
+    <style>
+    #head1 {
+        font-size: 95px;
+        line-height: 1.0;
+    }
+
+    @media (max-width: 768px) {
+        #head1 {
+            font-size: 75px;
+        }
+    }
+
+    /* For phones */
+    @media (max-width: 480px) {
+        #head1 {
+            font-size: 55px;
+        }
+    }
+</style>
 </head>
 
 <body onload="initialize()">
@@ -37,15 +56,15 @@
                 <img src="images/fleetmm.png" class="jarallax-img" alt="">
                 <div class="container position-relative z1000">
                     <div class="row align-items-center">
-                        <div class="col-lg-6 text-light">
-                            <h4><span class="id-color">Fast and Easy Way to Rent a Car</span></h4>
+                        <div class="col-lg-12 text-light">
+                            <h3><span class="id-color">Fast and Easy Way to Rent a Car</span></h3>
                             <div class="spacer-10"></div>
-                            <h1 class="mb-2">Explore the Dubai with comfortable car</h1>
+                            <h1  id="head1" class="mb-2">EXPLORE THE DUBAI WITH LUXURY & COMFORT.</h1>
                             <div class="spacer-10"></div>
                             <p class="lead">Experience Dubai in style with our selection of luxury vehicles. From sleek sedans to powerful sports cars, our luxury fleet is designed for those who demand the best. Brands include:</p>
                         </div>
 
-                        <div class="col-lg-6">
+                        <!-- <div class="col-lg-6">
                             <div class="spacer-single sm-hide"></div>
                             <div class="p-4 rounded-3 shadow-soft" data-bgcolor="#ffffff">
                                 
@@ -240,7 +259,7 @@
                                     
                                 </form>
                             </div>
-                        </div>
+                        </div> -->
                         
                     </div>
                 </div>
@@ -381,7 +400,7 @@
                         </div>
 
                         <div class="col-lg-6">
-                            <img src="images/misc/car.png" alt="" class="img-fluid wow fadeInUp">
+                            <img src="images/gwagon.png" alt="" class="img-fluid wow fadeInUp">
                         </div>
 
                         <div class="col-lg-3">
