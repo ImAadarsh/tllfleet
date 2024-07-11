@@ -101,7 +101,7 @@
 								<h4>UAE Office</h4>
 								<address class="s1">
 									<span style="text-align: justify;"><i class="id-color fa fa-map-marker fa-lg"></i>3rd Floor, Zainal Mohebi Plaza - Office 306 - 61 Sheikh Khalifa Bin Zayed St - opposite BurJuman, Center Point - Dubai</span>
-									<span><i class="id-color fa fa-phone fa-lg"></i>+971 43287289</span>
+									<span><i class="id-color fa fa-phone fa-lg"></i>+971-42252333</span>
 									<span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:nfo@tllgt.com">info@tllfleet.com</a></span>
 									<span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
 								</address>

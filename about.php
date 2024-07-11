@@ -199,7 +199,7 @@
                                     Call Us Now
                                 </span>
                                 <span class="pnb-num">
-                                +971 43287289
+                                +971-42252333
                                 </span>
                             </div>
                             <a href="tel:+97143287289" class="btn-main">Call Now</a>

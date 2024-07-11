@@ -6,7 +6,7 @@
                 <div class="container">
                     <div class="topbar-left xs-hide">
                         <div class="topbar-widget">
-                            <div class="topbar-widget"><a href="#"><i class="fa fa-phone"></i>+971 43287289</a></div>
+                            <div class="topbar-widget"><a href="#"><i class="fa fa-phone"></i>+971-42252333</a></div>
                             <div class="topbar-widget"><a href="#"><i class="fa fa-envelope"></i>info@tllfleet.com</a></div>
                             <div class="topbar-widget"><a href="#"><i class="fa fa-clock-o"></i>Mon - Saturday 08:00 AM - 08.00 PM</a></div>
                         </div>
